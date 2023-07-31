@@ -43,7 +43,7 @@ ChangeLog
 ---------
 
 2023-02-12  (v0.7)  Added Regular charset of Armenian block for Type A and Type B,
-                    fixed some Latin ad Cyrillic letter with round shapes (interpolation issue)
+                    Fixed some Latin ad Cyrillic letters with round shapes (interpolation issue)
 
 
 Information for Contributors

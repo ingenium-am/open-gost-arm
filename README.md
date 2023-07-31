@@ -27,6 +27,11 @@ and there is no any standard for Armenian glyphs of technical lettering, this fo
   (it would be better not to modify anything out of the Armenian block scope, except fixes).
 
 
+## TrueType Font
+
+For TrueType ***.ttf** fonts see [Releases](https://github.com/ingenium-am/open-gost-arm/releases) page.
+
+
 ## License
 
 Distributed under **SIL Open Font License**.
