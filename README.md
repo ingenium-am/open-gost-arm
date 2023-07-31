@@ -12,6 +12,7 @@ This font is distributed under [Open Font License](https://scripts.sil.org/OFL).
 It permits the font to be used, modified, and distributed freely (as long as the resulting fonts remain under the **Open Font License**).
 
 Author of the initial range of Latin, Cyrillic and Greek blocks is Nikita Volchenkov.
+
 For more information see [FONTLOG.txt](FONTLOG.txt).
 
 ## Disclaimer
