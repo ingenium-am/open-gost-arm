@@ -1,0 +1,72 @@
+FONTLOG
+OpenGOST font family - extended by Armenian block
+==========================
+
+This file provides detailed information on the OpenGOST family of fonts.
+This information should be distributed along with the OpenGOST fonts and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+
+OpenGOST is a sans-serif font for technical lettering complying standards 'GOST 2.304' and 'ISO 3098', with support for Latin, Cyrillic and Greek
+character sets. This font extends the charset by Armenian block with sufficient characters for U+0530 through U+058F.
+Author of the initial range of Latin, Cyrillic and Greek blocks is Nikita Volchenkov.
+
+OpenGOST supports the following Unicode ranges:
+
+Range          Description                          Coverage
+............................................................................
+U+0000-U+007F  Basic Latin                          95/128
+U+0080-U+00FF  Latin-1 Supplement                   92/128
+U+0100-U+017F  Latin Extended-A                     1/128
+U+02B0-U+02FF  Spacing Modifiers                    7/80
+U+0370-U+03FF  Greek and Coptic                     49/135
+U+0400-U+04FF  Cyrillic                             98/256
+U+0530-U+058F  Armenian                             85/91
+U+2000-U+206F  General Punctuation                  31/111
+U+2070-U+209F  Super/Subscripts	                    29/42
+U+20A0-U+20CF  Currency Symbols                     1/33 (Euro sign only)
+U+2100-U+214F  Letterlike Symbols                   5/80
+U+2150-U+218F  Number Forms                         48/60
+U+2190-U+21FF  Arrows                               6/112
+U+2200-U+22FF  Mathematical Operators               53/256
+U+2300-U+23FF  Miscellaneous Technical              14/256
+U+2460-U+24FF  Enclosed Alphanumerics               26/160
+U+25A0-U+25FF  Geometric Shapes                     19/96
+U+27C0-U+27EF  Miscellaneous Mathematical Symbols   3/48
+U+2900-U+297F  Supplemental Arrows                  2/128
+U+E000-U+F8FF  Private Use Area                     46/6400 (custom symbols)
+
+ChangeLog
+---------
+
+2023-02-12  (v0.7)  Added Regular charset of Armenian block for Type A and Type B,
+                    fixed some Latin ad Cyrillic letter with round shapes (interpolation issue)
+
+
+Information for Contributors
+----------------------------
+
+This font is licensed under the Open Font License (OFL).
+
+You can read more about the OFL here:
+http://scripts.sil.org/OFL
+
+If you'd like to make changes to the original font, you are free to contact
+the author of the original font (for contact information, please see the
+"Contributors" section below). Glyph changes should be in a FontForge .sfd
+file (please make sure your version of FontForge is reasonably up-to-date).
+Please send *only* the changed glyphs, not the entire font range. The author
+reserves the right to reject or modify any contributions, especially if glyphs
+does not meet 'GOST 2.304' or 'ISO 3098' standards. If your contribution
+is accepted, your name will appear in the Contributors section (unless you
+specify otherwise).
+
+
+Contributors
+------------
+
+Levon Melikyan (font maintainer)
+lmelikyan@gmail.com
