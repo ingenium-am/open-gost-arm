@@ -1,6 +1,6 @@
 # OpenGOST Font
 
-### Superset of OpenGost font developed by Nikita Volchenkov including glyphs of _Armenian_ character set
+### Superset of OpenGost font including Armenian charset
 
 [![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
 
