@@ -24,7 +24,7 @@ and there is no any standard for Armenian glyphs of technical lettering, this fo
 - Only Regular types (A, B) are included, Italic charset is yet to be done.
 
 
-- Please not, that any modifications applied to this font must meet requirements of both **ISO 3098** and **GOST 2.304** standards
+- Please note, that any modifications applied to this font must meet requirements of both **ISO 3098** and **GOST 2.304** standards
   (it would be better not to modify anything out of the Armenian block scope, except fixes).
 
 
